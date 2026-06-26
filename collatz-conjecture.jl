@@ -1,5 +1,6 @@
 #------------------------------------------------------------------------
 # How many steps it takes to approach 1 by Collatz's Conjecture? 
+# "Longest Collatz Sequence" - "https://projecteuler.net/problem=14"
 # A. Alherbawi - June 2026 - Julia
 #------------------------------------------------------------------------
 function collatz_steps(n)
